@@ -1,0 +1,5 @@
+tkinter==8.5
+pillow==10.2.0
+colorthief==0.2.1
+random==1.0.2
+colorsys==2.0.17
