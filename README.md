@@ -33,23 +33,23 @@ pip install -r requirements.txt
 3. Запусти:
 python scripts/start.py
 
-🧠 Стек технологий
+## 🧠 Стек технологий
 Python 3.10+
 Tkinter (GUI)
 Pillow (работа с изображениями)
 ColorThief (извлечение цветов)
 MySQL (для хранения палитр, опционально)
 
-📝 Лицензия
+## 📝 Лицензия
 Проект распространяется под лицензией MIT.
 Пожалуйста, сохраняй указание на автора при использовании.
 
-🤝 Автор
+## 🤝 Автор
 Mitori Vancody Firelight
 🐾 Независимый разработчик, Python-энтузиаст
 
-VK: vk.com/mitori_territory
-Telegram: @Vancody_Firelight
-GitHub: github.com/Vancody
-Discord: @vancodyfirelight
+- VK: vk.com/mitori_territory
+- Telegram: @Vancody_Firelight
+- GitHub: github.com/Vancody
+- Discord: @vancodyfirelight
 
